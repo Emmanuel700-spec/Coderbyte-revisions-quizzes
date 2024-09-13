@@ -1,0 +1,5 @@
+This is a sample text with some words that could potentially be palindromes. We need to find out which words are palindromes. A palindrome is a word that reads the same backward as forward.
+
+For instance, words like "level" and "radar" are palindromes, but words like "hello" and "world" are not. Let's find all palindromes in this list. 
+
+Here are some more examples: "deified", "madam", "civic", "refer". They should be identified as palindromes by our script.
